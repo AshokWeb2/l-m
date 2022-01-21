@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h5{
+  color: aqua;
+}
+img{
+  width: auto;
+  height: auto;
+}
+.navbar{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.navbar-brand{
+  padding-right: 60px;
+}
+.container-fluid{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+  
